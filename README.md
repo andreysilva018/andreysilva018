@@ -1,12 +1,12 @@
-# Olá, eu sou o Andrey Vinícius 👋
+# Olá, eu sou o Andrey Vinícius
 
-Sou profissional de TI em transição para o desenvolvimento Backend, com foco em **Java, Spring Boot, SQL e APIs REST**.
+Sou um profissional de TI apaixonado por tecnologia e resolução de problemas.
 
-Atualmente trabalho como **Auxiliar de TI**, sendo responsável pelo suporte tecnológico da empresa, atendimento aos usuários, manutenção do ambiente corporativo e acompanhamento diário do ERP Doctus.
+Atualmente atuo como Assistente de TI, trabalhando diariamente com ERP, suporte técnico, análise de inconsistências e melhoria de processos.
 
-Também atuo na investigação de divergências entre o estoque físico e o estoque registrado no sistema, além de apoiar processos relacionados a faturamento, notas fiscais e regras de negócio.
+Paralelamente, venho direcionando minha carreira para Desenvolvimento Backend utilizando Java e Spring Boot, construindo projetos próprios para aplicar conceitos de APIs REST, banco de dados relacionais, orientação a objetos e arquitetura MVC.
 
-Paralelamente, desenvolvo projetos próprios para evoluir meus conhecimentos em arquitetura de software, programação orientada a objetos, banco de dados e boas práticas de desenvolvimento.
+Meu objetivo é contribuir com equipes de desenvolvimento criando soluções robustas e continuar evoluindo como Desenvolvedor Backend Java.
 
 ---
 
@@ -134,18 +134,6 @@ Tecnologias utilizadas:
 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
 FAI — Faculdades Adamantinenses Integradas  
 2024 — 2027
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreysilva018&show_icons=true&theme=dark&hide_border=true&locale=pt-br)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreysilva018&layout=compact&theme=dark&hide_border=true&locale=pt-br)
-
-</div>
 
 ---
 
