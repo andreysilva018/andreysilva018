@@ -48,7 +48,7 @@ Meu objetivo é contribuir com equipes de desenvolvimento criando soluções rob
 
 ## Projetos em destaque
 
-### 🍫 ChocoFlow(https://github.com/andreysilva018/Metareel-Performance-Portif-lio.git)
+### 🍫 ![ChocoFlow]([https://github.com/andreysilva018/Metareel-Performance-Portif-lio.git](https://github.com/andreysilva018/ChocoFlow.git))
 
 Sistema desktop em desenvolvimento para gerenciamento de uma confeitaria.
 
