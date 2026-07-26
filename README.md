@@ -10,7 +10,7 @@ Meu objetivo é contribuir com equipes de desenvolvimento criando soluções rob
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Backend
 
@@ -46,7 +46,7 @@ Meu objetivo é contribuir com equipes de desenvolvimento criando soluções rob
 
 ---
 
-## 💻 Projetos em destaque
+## Projetos em destaque
 
 ### 🍫 ChocoFlow
 
