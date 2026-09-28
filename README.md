@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-road.svg" width="100%" alt="Andrey Vinícius - Desenvolvedor Backend Java"/>
+  <img src="./hero-road.svg" width="100%" alt="Andrey Vinícius - Desenvolvedor Backend Java"/>
 </p>
 
 <h1 align="center">Andrey Vinícius de Souza Silva</h1>
